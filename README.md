@@ -1,2 +1,2 @@
 # firstwild
-mon premier projet
+Mon premier projet d'essaie à la Wild Code School
